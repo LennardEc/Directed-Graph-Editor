@@ -1,7 +1,5 @@
 <p align="center">
     <h1 align="center">Synthetic eventlog generator</h1>
-    <h2 align="center">SEA - Spring 2022 </h2>
-    <br>
 </p>
 
 This project is the main project for the course Software Engineering and Architecture at the program Master of Science in Computer Science at the University of Copenhagen. It is developed in the programming language Python. The framework used for the user interface is Kivy.
