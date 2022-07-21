@@ -57,7 +57,7 @@ You can get the project by unzipping the .zip file uploaded.
 If you are a developer of the project, you can also access it by cloning the project from Github with the following command:
 
 ```
-git clone https://github.com/AbrakaBarna/sea-directed-graph.git
+git clone https://github.com/LennardEc/Directed-Graph-Editor.git
 ```
 
 After that you can install the required dependencies with [pip](https://www.w3schools.com/python/python_pip.asp) if you have [Python] (https://www.python.org/downloads/) installed.
